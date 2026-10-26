@@ -1,6 +1,6 @@
 ### Yashraj Manan
 
-Biotech student building toward a PhD in computational biology / bioinformatics / mathematical biology.
+Biotech student building toward a PhD in Computational Biology / Bioinformatics / AI in Biology.
 I work across wet-lab-adjacent data (sequencing, phylogenetics, population genetics, protein structure) and
 the computational methods used to analyze it — usually built twice, in two independent tools, to check the
 result rather than trust one pipeline's output. ~50 repos below span sequencing pipelines, population-genetics
