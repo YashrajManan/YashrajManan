@@ -6,6 +6,17 @@ the computational methods used to analyze it — usually built twice, in two ind
 result rather than trust one pipeline's output. ~50 repos below span sequencing pipelines, population-genetics
 theory, systems biology, protein language models, network medicine, and applied ML tooling.
 
+**MSc Dissertation — Computational and Experimental Approaches to Study HIV-1 Subtypes**
+M.Sc. Biotechnology, South Asian University, New Delhi (CGPA 8.76/10), in Prof. Ritu Gaur's virology lab.
+
+Three parts (all independent of each other): 
+
+(1) HIV-1 subtype classification from the *pol* gene (https://github.com/YashrajManan/Machine_Learning_Models_for_HIV-1_Subtype_Classification_from_the_Pol_Gene) — alignment-free deep learning vs. classical ML comparison (Manuscript submitted)
+
+(2) HivGagFormer, a compact temporal transformer [private Repo] (~0.24M params) combining frozen ESM-2 embeddings, rolling site-frequency priors, and continuous-time encoding to predict HIV-1 Gag mutations (Manuscript in preparation) 
+
+(3) wet-lab validation of LDHA protein expression via western blotting, grounding the computational predictions in bench data.
+
 **Start here — the most representative work:**
 - [Phylodynamics & Pathogen Genomic Surveillance](https://github.com/YashrajManan/Phylodynamics-Pathogen_surveillance) — time-scaled SARS-CoV-2 phylogeny, molecular clock, skyline Ne(t)
 - [NGS Pipeline + Variant Calling](https://github.com/YashrajManan/NGS_PIPELINE_VARIANT_CALLING) — raw reads → variants on real NA12878 data, validated against the GIAB truth set
